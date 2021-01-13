@@ -5,7 +5,7 @@
       <span class="block text-yellow-300 xl:inline">World</span>
     </h1>
     <p class="mt-3 max-w-md mx-auto text-base text-gray-500 sm:text-lg md:mt-5 md:text-xl md:max-w-3xl">
-      Congrats! You have just setup a SVITE + SVELTE + TAILWIND Template, now time to get busy coding!
+      Congrats! You have just setup a SVITE + SVELTE + TAILWINDCSS Template, now time to get busy coding!
     </p>
     <div class="mt-5 max-w-md mx-auto sm:flex sm:justify-center md:mt-8">
       <div class="rounded-md shadow">

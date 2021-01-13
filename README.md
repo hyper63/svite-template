@@ -4,13 +4,13 @@ This template setups a project with Svelte, Svite and Tailwind
 
 ## Automated 
 
-```
+``` sh
 npx bam github:hyper63/svite-template [PROJECT]
 ```
 
 ## Manual Steps
 
-```
+``` sh
 mkdir myproject
 cd myproject
 yarn init -y
@@ -69,7 +69,7 @@ module.exports = {
 
 svelte.config.js
 
-```
+``` js
 const { postcss } = require('svelte-preprocess');
 module.exports = {
   preprocess: [postcss()],
@@ -78,8 +78,7 @@ module.exports = {
 
 index.html
 
-```
-
+``` html
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -117,13 +116,13 @@ src/index.css
 
 src/App.svelte
 
-```
+``` svelte 
 <h1>Hello World</h1>
 ```
 
 public/favicon.svg
 
-```
+``` svg
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14.828 14.828a4 4 0 01-5.656 0M9 10h.01M15 10h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
 </svg>
@@ -142,5 +141,5 @@ package.json
 
 ```
 
-
+## Congrats! You have setup a svite app with tailwindcss
 
