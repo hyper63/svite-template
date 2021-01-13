@@ -3013,6 +3013,11 @@ terser@^5.0.0:
     source-map "~0.7.2"
     source-map-support "~0.5.19"
 
+tinro@^0.5.6:
+  version "0.5.6"
+  resolved "https://registry.yarnpkg.com/tinro/-/tinro-0.5.6.tgz#5f3e6a7b132a01807f00474ad216e27dda723a1e"
+  integrity sha512-F9cJBKVq+NCL76A3wHpAjtPvUdR29FGnMdMeaF0tyRtnyhKlxiNBg/3GV/ZJoOysqr2vUuyTd90Z3FuEt+nt0g==
+
 to-fast-properties@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/to-fast-properties/-/to-fast-properties-2.0.0.tgz#dc5e698cbd079265bc73e0377681a4e4e83f616e"

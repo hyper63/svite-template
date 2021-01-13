@@ -10,7 +10,8 @@
     "svelte": "^3.31.2",
     "svelte-preprocess": "^4.6.1",
     "svite": "^0.8.1",
-    "tailwindcss": "^2.0.1-compat"
+    "tailwindcss": "^2.0.1-compat",
+    "tinro": "^0.5.6"
   },
   "scripts": {
     "build": "svite build",
