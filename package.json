@@ -1,0 +1,19 @@
+{
+  "name": "svite-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "postcss": "7",
+    "postcss-import": "12",
+    "postcss-preset-env": "^6.7.0",
+    "svelte": "^3.31.2",
+    "svelte-preprocess": "^4.6.1",
+    "svite": "^0.8.1",
+    "tailwindcss": "^2.0.1-compat"
+  },
+  "scripts": {
+    "build": "svite build",
+    "dev": "svite"
+  }
+}
