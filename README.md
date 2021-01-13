@@ -143,3 +143,10 @@ package.json
 
 ## Congrats! You have setup a svite app with tailwindcss
 
+## Acknowlegements
+
+* Svite - https://github.com/dominikg/svite
+* Svelte - https://svelte.dev
+* Tailwindcss - https://tailwindcss.com
+
+
